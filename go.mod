@@ -1,4 +1,4 @@
-module github.com/nioanto/tcp
+module github.com/nioanto/tcp/v1.0.0
 
 go 1.21.8
 
